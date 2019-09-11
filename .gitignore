@@ -1,0 +1,8 @@
+# ignore all bin directories
+bin
+# Ignore all files ending with tilde
+*~
+di# Ignore files ending with log
+*log
+# Ignore files ending in .bak
+*bak
