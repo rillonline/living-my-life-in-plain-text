@@ -1,0 +1,72 @@
+---
+author:
+- Rill Woolnough
+title: Living My Life in Plain Text Outline
+---
+
+Living My Life in Plain Text
+============================
+
+\\\*\* Title Page
+
+Table of Contents
+-----------------
+
+Introduction -- what this book hopes to accomplish
+--------------------------------------------------
+
+Thinking About Doing
+--------------------
+
+A Few Quick Notes on Orgmode Markup
+-----------------------------------
+
+Setting up your Initial Emacs Configuration for Org
+---------------------------------------------------
+
+Setting up a Calendar
+---------------------
+
+Seeing Your Calendar as an Agenda
+---------------------------------
+
+Making a To-do List
+-------------------
+
+How Deep Should You Go?
+-----------------------
+
+### To-do Checkboxes
+
+### To-do Keywords
+
+### Priorities
+
+Revisiting the Agenda
+---------------------
+
+### Helpful keys in the Agenda -- archiving, saving, changing status
+
+### Seeing the Agenda on STartup
+
+### Remember to Refresh
+
+Capturing Information
+---------------------
+
+### Deciding what to Capture
+
+To Refile or Not to Refile
+--------------------------
+
+Writing in Orgmode
+------------------
+
+Exporting and Publishing in Orgmode
+-----------------------------------
+
+Keeping Track of Expenses
+-------------------------
+
+References
+----------
