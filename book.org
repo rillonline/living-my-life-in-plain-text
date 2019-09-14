@@ -1,0 +1,74 @@
+---
+title: Living My Life in Plain Text
+author: Rill Woolnough
+rights: Creative Commons Attribution Non-commercial ShareAlike
+---
+
+** Introduction
+
+I have come to Linux, Emacs and finally Org late in life. I have been
+blind since elementary school, long before computers entered our homes
+and lived in our pockets and pocketbooks. This guide documents my
+findings with a special emphasis of using Emacs with Emacspeak. There
+may be better ways to accomplish the tasks I write about in this book.
+I offer this compilation in order to help someone else and to write
+down what I have found useful.
+
+** Thinking About Doing
+
+If you look at the [[https://orgmode.org/manual/index.html][]Org Manual] you will quickly notice that
+actually writing is not discussed until Chapter 11
+[[https://orgmode.org/manual/Markup-for-Rich-Contents.html][Markup for
+Rich Content]]. Initially, I was only interested in Org for writing.
+(I have also used markdown and restructured text. Each have their
+strengths.) Later, when I wanted to "get organized" I started looking
+into to-do lists and agendas.
+
+ 
+Perhaps this is an odd way to put it, but the difficult part of
+getting organized with Org is figuring out what I actually want
+to accomplish. This is true about the tasks themselves--what do I
+want to work on--and, more important for this book, how do I want
+to think about what I want to do.
+
+I spent days which turned into weeks reading other people's work
+flows. Some posts dated back to 2007. I found out that I thought like
+some people and were totally lost trying to follow others. I also
+learned that my use case is very different.
+
+I am retired. There are some things I still must do:
+
+  1. Clean the house.
+  2. TAke out the garbage.
+  3. Give my service dog his pills, take him to the vet and groom.
+  4. Make, keep and travel to appointments.
+  5. Spend time in activities I enjoy.
+  6. Visit with friends and family.
+
+For a long time, I was able to just keep all this information in my
+mind. Now I rely on my calendar available through my phone, reminders,
+texts and emails from the places I go and now my Org agenda.
+
+You might ask why bother with a computer-based system as old school as
+Emacs? It's a good question. It may have to do with noise, the kind of
+noise a smart phone can generate. There are all sorts of
+notifications. If I turn them off, then I have to remember to look and
+open the right app to know what I am doing. I now have an Org agenda
+that is automatically displayed when I open Emacs. Like all my other
+tools, I have to turn on the computer and open EMacs, but I usually
+do and if I don't, I still have the other tools to rely on. Just
+writing something down in a file helps my memory. It may just be that
+I am more old school than I like to pretend.
+
+Ultimately, I divided the things I wanted to keep track of into four
+groups:
+
+1. Appointments
+2. Things to do with my website.
+3. Other writing projects
+4. Everything else. I just call this category "Tasks" though in
+   reality everything on this list is a task.
+
+Your high level organization may be very different and that's OK. Your
+life is probably different than mine.
+

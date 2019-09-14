@@ -5,7 +5,7 @@
 Rill Woolnough has created a helpful guide for anyone wanting to learn
 how to use orgmode for organizing their daily lives: calendar, to-do
 lists, daily agendas  and note taking. Her emphasis is on using emacs and orgmode as a
-blind person.There are simple step-by-step
+blind person. There are simple step-by-step
 instructions with notes for emacspeak users.
 
 You will be able to download the book here. 
